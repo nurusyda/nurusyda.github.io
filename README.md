@@ -12,9 +12,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3723129.png)](https://tryhackme.com/p/3723129)
-git add README.md
-git commit -m "Add TryHackMe badge"
-git push
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3723129.png)
 
 
