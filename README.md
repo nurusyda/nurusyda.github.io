@@ -12,4 +12,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3723129" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3723129.png)](https://tryhackme.com/p/3723129)
+
