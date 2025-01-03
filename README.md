@@ -16,12 +16,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Network                                       | Home Network, Small Office Network, Enterprise Network, WAN Connection, Advanced Security Configuration, IoT Integration|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Honeypot                                      | SOC Automation Lab|
+| Malware Analysis                              | SOC Automation Lab|
+| Create CFT (Cath The Flag) Challenges         | SOC Automation Lab|
+| Coding (Easy Software)                        | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
