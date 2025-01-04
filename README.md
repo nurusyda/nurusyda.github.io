@@ -16,12 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network                                       | Home Network, 
-Small Office Network, 
-Enterprise Network, 
-WAN Connection, 
-Advanced Security Configuration, 
-IoT Integration|
+| Network                                       | Home Network, IoT Integration|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Honeypot                                      | SOC Automation Lab|
 | Malware Analysis                              | SOC Automation Lab|
