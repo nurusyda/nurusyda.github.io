@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Network                                       | Home Network, IoT Integration|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Honeypot                                      | SOC Automation Lab|
+| Honeypot                                      | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
 | Malware Analysis                              | SOC Automation Lab|
 | Create CFT (Cath The Flag) Challenges         | SOC Automation Lab|
 | Coding (Easy Software)                        | SOC Automation Lab|
