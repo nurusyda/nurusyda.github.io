@@ -1,61 +1,42 @@
-# Hello, I'm CHANGEME
-<a href="https://www.linkedin.com/in/mnurusyda/"> <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<h1>Hi, I'm Muthia! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 
+<h2>👩🏼‍💻 Cybersecurity Projects:</h2>
 
-[Brief Introduction - Remove this afterwards]
+- <b>Networking</b>
+  - [Basic Home Network: IP, DNS, etc](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>SIEM</b>
+  - [SIEM in Azure (sentinel): Azure Portal, Azure Sentinel, Kusto Query Language (KSL), Network Security Groups](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Network Traffic Analysis: Analyze Network Traffic Package, Understand Anomalous Volume of Traffic from Sus Place. (Waxuh, Azure, Wireshark)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- <b>Honeypot</b>
+  - [Virtual Machine then download Honeypot](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Malware Analysis</b>
+  - [Dissecting Malware (serius ada link disini)](https://www.youtube.com/watch?v=tGv9jHw--DM)
+  - [Static Passive method (link asli ada disini)](https://www.youtube.com/watch?v=9TEeribDUXE)
+  - [Dynamic Active Method](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Sandboxing](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- <b>Catch The Flag (CTF) Challenge Created</b>
+  - [Web Building + Gamify things](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Coding</b>
+  - [Just code anything](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Active Directory</b>
+  - [Virtual Active Directory Environment in Azure: Active Directory, PowerShell, Windows Server, Virtualization (VirtualBox)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>File Integrity Monitor</b>
+  - [PowerShell, Hashing Algorithm (SHA-512, etc.), Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>REST API (simple)</b>
+  - [Coding/ Web Development, Gateway to Web Pentesting, Build Strong intuition of API](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+<h2>📜 Certifications:</h2>
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Cisco Junior Cybersecurity Analyst](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Google Project Management](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Federal Emergency Management Agency (FEMA): ICS-100](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Qualys Vulnerability Management](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+<h2>🏴🏳️ Catch The Flag Hunter?:</h2>
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+- [2024 SANS Holiday Hack Challenge: Snow-maggedon!](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [TryHackMe: Advent of Cyber 2024](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Network                                       | Home Network, IoT Integration|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Honeypot                                      | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
-| Malware Analysis                              | SOC Automation Lab|
-| Create CFT (Cath The Flag) Challenges         | SOC Automation Lab|
-| Coding (Easy Software)                        | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+<h2> 📬 Connect with me:</h2>
