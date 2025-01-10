@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muthia a <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Muthia Nurusyda a <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 
 <h2>👩🏼‍💻 Cybersecurity Projects:</h2>
 
