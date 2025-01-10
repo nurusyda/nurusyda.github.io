@@ -6,7 +6,7 @@
   - [Basic Home Network: IP, DNS, etc](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SIEM</b>
   - [SIEM in Azure (sentinel): Azure Portal, Azure Sentinel, Kusto Query Language (KSL), Network Security Groups](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Network Traffic Analysis: Analyze Network Traffic Package, Understand Anomalous Volume of Traffic from Sus Place. (Waxuh, Azure, Wireshark)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Network Traffic Analysis: Analyze Network Traffic Package, Understand Anomalous Volume of Traffic from Sus Place. (Wazuh, Azure, Wireshark)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Honeypot</b>
   - [Virtual Machine then download Honeypot](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Malware Analysis</b>
