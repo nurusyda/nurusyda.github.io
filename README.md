@@ -20,7 +20,7 @@
   - [Just code anything](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Active Directory</b>
   - [Virtual Active Directory Environment in Azure: Active Directory, PowerShell, Windows Server, Virtualization (VirtualBox)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>File Integrity Monitor</b>
+- <b>File Integrity Monitor (FIM)</b>
   - [PowerShell, Hashing Algorithm (SHA-512, etc.), Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>REST API (simple)</b>
   - [Coding/ Web Development, Gateway to Web Pentesting, Build Strong intuition of API](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
