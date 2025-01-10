@@ -34,7 +34,7 @@
 - [Federal Emergency Management Agency (FEMA): ICS-100](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Qualys Vulnerability Management](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2>🏴🏳️ Catch The Flag Hunter?:</h2>
+<h2>🏴🏳️ Catch The Flag Hunter:</h2>
 
 - [2024 SANS Holiday Hack Challenge: Snow-maggedon!](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [TryHackMe: Advent of Cyber 2024](https://www.youtube.com/watch?v=uHy3oM7NnoU)
