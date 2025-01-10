@@ -29,9 +29,9 @@
 <h2>📜 Certifications:</h2>
 
 - [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google Cybersecurity]((https://www.coursera.org/account/accomplishments/professional-cert/VZGTJ3EFZT35))
-- [Cisco Junior Cybersecurity Analyst]((https://www.netacad.com/profile?tab=badges))
-- [Google Project Management]((https://www.coursera.org/account/accomplishments/professional-cert/QJ9GXRQJ9MZR))
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/VZGTJ3EFZT35)
+- [Cisco Junior Cybersecurity Analyst](https://www.netacad.com/profile?tab=badges)
+- [Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/QJ9GXRQJ9MZR)
 - [Federal Emergency Management Agency (FEMA): ICS-100](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - [Qualys Vulnerability Management](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
