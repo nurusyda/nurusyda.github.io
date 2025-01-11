@@ -3,7 +3,7 @@
 <h2>👩🏼‍💻 Cybersecurity Projects:</h2>
 
 - <b>Networking</b>
-  - [Home Network: IP, DNS, etc](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Home Network: IP, DNS, etc](https://nurusyda.github.io/Home-Network/)
   - [Office Network: VLAN, etc](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SIEM</b>
   - [SIEM in Azure (sentinel): Azure Portal, Azure Sentinel, Kusto Query Language (KSL), Network Security Groups](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
