@@ -1,1 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Cards - John Doe</title>
+  <style>
+    :root {
+      --primary-color: #2c3e50;
+      --accent-color: #3498db;
+      --background-color: #f5f6fa;
+      --text-color: #2c3e50;
+      --card-bg: #fff;
+    }
+
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background: var(--background-color);
+      color: var(--text-color);
+      line-height: 1.6;
+    }
+
+    h2 {
+      text-align: center;
+      color: var(--primary-color);
+    }
+
+    .projects-container {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      width: 45%; /* Adjust width for two columns */
+      min-width: 300px;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    }
+
+    .card h3 {
+      margin-top: 0;
+      color: var(--primary-color);
+      font-size: 1.4rem;
+    }
+
+    .card img {
+      width: 100%;
+      border-radius: 4px;
+    }
+
+    .card p {
+      margin: 10px 0;
+    }
+
+    .skill-tag {
+      display: inline-block;
+      background: var(--accent-color);
+      color: #fff;
+      padding: 5px 10px;
+      border-radius: 15px;
+      margin: 3px;
+      font-size: 0.9em;
+    }
+
+    a {
+      color: var(--accent-color);
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      color: var(--primary-color);
+      text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      .projects-container {
+        flex-direction: column;
+        align-items: center;
+      }
+      .card {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Networking</h2>
+  <div class="projects-container">
+    
+    <!-- Project Card 1 -->
+    <div class="card">
+      <h3>Enterprise Network Design & Security</h3>
+      <img src="/api/placeholder/800/400" alt="Network Diagram">
+      <p>Designed a scalable network for 600+ devices, ensuring high availability and security.</p>
+      <p><strong>Key Achievements:</strong></p>
+      <ul>
+        <li>99.99% network uptime through redundancy.</li>
+        <li>Reduced security incidents by 75%.</li>
+        <li>Enabled secure remote access for 200+ employees.</li>
+      </ul>
+      <p><strong>Technologies:</strong></p>
+      <span class="skill-tag">Cisco ASA</span>
+      <span class="skill-tag">OSPF</span>
+      <span class="skill-tag">802.1x</span>
+      <p><a href="#">View Detailed Case Study →</a></p>
+    </div>
+
+    <!-- Project Card 2 -->
+    <div class="card">
+      <h3>Firewall & VPN Implementation</h3>
+      <img src="/api/placeholder/800/400" alt="Security Architecture">
+      <p>Implemented dual firewalls, IPSec VPNs, and MFA for a secure corporate network.</p>
+      <p><strong>Key Achievements:</strong></p>
+      <ul>
+        <li>Reduced security incidents by 60%.</li>
+        <li>Improved remote access security.</li>
+        <li>Achieved 100% compliance with security standards.</li>
+      </ul>
+      <p><strong>Technologies:</strong></p>
+      <span class="skill-tag">Cisco ASA</span>
+      <span class="skill-tag">IPSec VPN</span>
+      <span class="skill-tag">NAT/PAT</span>
+      <p><a href="#">View Detailed Case Study →</a></p>
+    </div>
+
+  </div>
+
+</body>
+</html>
 
