@@ -2,9 +2,47 @@
 
 <h2>👩🏼‍💻 Cybersecurity Projects:</h2>
 
-- <b>Networking</b>
-  - [Home Network: Router Setup, DHCP, Wireless Security, and File Sharing](https://nurusyda.github.io/Home-Network/)
-  - [Office Network: VLAN, Port Security, AAA, RADIUS, and Network Monitoring](https://nurusyda.github.io/Office-Network/)
+ <h2>Networking</h2>
+  <div class="projects-container">
+    
+    <!-- Project Card 1 -->
+    <div class="card">
+      <h3>Enterprise Network Design & Security</h3>
+      <img src="/api/placeholder/800/400" alt="Network Diagram">
+      <p>Designed a scalable network for 600+ devices, ensuring high availability and security.</p>
+      <p><strong>Key Achievements:</strong></p>
+      <ul>
+        <li>99.99% network uptime through redundancy.</li>
+        <li>Reduced security incidents by 75%.</li>
+        <li>Enabled secure remote access for 200+ employees.</li>
+      </ul>
+      <p><strong>Technologies:</strong></p>
+      <span class="skill-tag">Cisco ASA</span>
+      <span class="skill-tag">OSPF</span>
+      <span class="skill-tag">802.1x</span>
+      <p><a href="#">View Detailed Case Study →</a></p>
+    </div>
+
+    <!-- Project Card 2 -->
+    <div class="card">
+      <h3>Firewall & VPN Implementation</h3>
+      <img src="/api/placeholder/800/400" alt="Security Architecture">
+      <p>Implemented dual firewalls, IPSec VPNs, and MFA for a secure corporate network.</p>
+      <p><strong>Key Achievements:</strong></p>
+      <ul>
+        <li>Reduced security incidents by 60%.</li>
+        <li>Improved remote access security.</li>
+        <li>Achieved 100% compliance with security standards.</li>
+      </ul>
+      <p><strong>Technologies:</strong></p>
+      <span class="skill-tag">Cisco ASA</span>
+      <span class="skill-tag">IPSec VPN</span>
+      <span class="skill-tag">NAT/PAT</span>
+      <p><a href="#">View Detailed Case Study →</a></p>
+    </div>
+
+  </div>
+
 - <b>SIEM</b>
   - [SIEM in Azure (sentinel): Azure Portal, Azure Sentinel, Kusto Query Language (KSL), Network Security Groups](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Network Traffic Analysis: Analyze Network Traffic Package, Understand Anomalous Volume of Traffic from Sus Place. (Wazuh, Azure, Wireshark)](https://github.com/joshmadakor1/Jwipe.PowerShell)
